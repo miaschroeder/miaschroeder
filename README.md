@@ -1,4 +1,4 @@
-### Hi! I'm Mia, a 1st-year Computer Science student at UC Irvine.
+### 🪴 Hi! I'm Mia, a 1st-year Computer Science student at UC Irvine. 
 
 I'm currently learning front-end web development, and I'm interested in applying design techniques that create enjoyable and accessible products.
 
