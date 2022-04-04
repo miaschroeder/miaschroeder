@@ -1,6 +1,8 @@
 ### 🪴 Hi! I'm Mia, a 1st-year Computer Science student at UC Irvine. 
 
-I'm currently learning front-end web development, and I'm interested in applying design techniques that create enjoyable and accessible products.
+I'm currently learning front-end web development, and I'm interested in applying design techniques that create enjoyable and accessible products as well as helping younger students explore STEM/CS through community outreach events and workshops!
+
+
 
 *Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mia-schroeder-459bb521b/) or by [email](mailto:miaanschroeder@gmail.com).*
 
