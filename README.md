@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi! I'm Mia, a 1st-year Computer Science student at UC Irvine.
+
+
 
 <!--
 **miaschroeder/miaschroeder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
