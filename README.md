@@ -1,6 +1,8 @@
 ### Hi! I'm Mia, a 1st-year Computer Science student at UC Irvine.
 
-###### Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mia-schroeder-459bb521b/) or by [email](maschroe@uci.edu).
+
+
+*Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mia-schroeder-459bb521b/) or by [email](mailto:miaanschroeder@gmail.com).*
 
 
 
