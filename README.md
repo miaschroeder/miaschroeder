@@ -4,7 +4,7 @@ I'm currently learning front-end web development, and I'm interested in applying
 
 
 
-*Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mia-schroeder-459bb521b/) or by [email](mailto:miaanschroeder@gmail.com).*
+*Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/mia-schroeder-459bb521b/) or via [email](mailto:miaanschroeder@gmail.com).*
 
 
 
