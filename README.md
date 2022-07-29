@@ -5,7 +5,7 @@ I'm a second year computer science major at UC Irvine and I love discovering how
 
 ### 💭 More about me!
 * 👩‍💻 technologies I'm working with: Python, Javascript, React, Express, MongoDB, PostgreSQL
-* 📓 courses I'm taking currently: Programming in C/C++ as Second Language, Intro to Computer Organization
+* 📓 courses I'm taking: Programming in C/C++ as Second Language, Intro to Computer Organization
 * 🥐 my favorite food: any kind of pastry!
 
 ### 📬 Getting in touch!
