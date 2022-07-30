@@ -3,10 +3,10 @@
 I'm a second year computer science major at UC Irvine and I love discovering how technology can uplift communities and how we can better support women in the field. Currently, I'm exploring fullstack web development, and I'm interested in learning more about design principles that create enjoyable and accessible products as well as helping younger students explore STEM & CS! 
 
 
-### 💭 More about me!
-* 👩‍💻 technologies I'm working with: Python, Javascript, React, Express, MongoDB, PostgreSQL
-* 📓 courses I'm taking: Programming in C/C++ as Second Language, Intro to Computer Organization
-* 🥐 my favorite food: any kind of pastry!
+### 💭 More about me! I'm ...
+* 👩‍💻 working w/ Python, Javascript, React, Express, MongoDB, PostgreSQL
+* 📚 currently taking Programming in C/C++ as Second Language, Intro to Computer Organization
+* 🥐 an enjoyer of pastries, reading, and cats 
 
 ### 📬 Getting in touch!
 
