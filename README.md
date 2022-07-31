@@ -1,6 +1,6 @@
 # 🪴 Hi there, I'm Mia! 
 
-I'm a second year computer science major at UC Irvine and I love discovering how technology can uplift communities and how we can better support women in the field. Currently, I'm exploring fullstack web development, and I'm interested in learning more about design principles that create enjoyable and accessible products as well as helping younger students explore STEM & CS! 
+I'm a second year computer science major at UC Irvine and I like discovering how technology can uplift communities and how we can better support women in the field. Currently, I'm exploring fullstack web development, and I'm interested in learning more about design principles that create enjoyable and accessible products as well as helping younger students explore STEM & CS! 
 
 
 ### 💭 More about me! I'm ...
